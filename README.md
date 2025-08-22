@@ -28,8 +28,6 @@ npm run dev
 npm run build
 npm run preview
 
-```
-
 ## 🛠️ Project Structure
 
 src/
