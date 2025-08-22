@@ -22,3 +22,18 @@ git clone https://github.com/your-username/your-project.git
 cd your-project
 npm install
 npm run dev
+
+## 🛠️ Build for Production
+
+```bash
+npm run build
+npm run preview
+
+## 🛠️ Project Structure
+
+src/
+├── store.js
+├── features/
+│   ├── api/          # RTK Query base API
+│   └── blog/         # Example feature slice
+└── main.jsx
