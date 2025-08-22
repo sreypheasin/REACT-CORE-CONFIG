@@ -18,7 +18,7 @@ A modern React scaffold project preconfigured with **RTK Query**, **React Router
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/sreypheasin/REACT-CORE-CONFIG.git
 cd your-project
 npm install
 npm run dev
